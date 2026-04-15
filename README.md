@@ -27,13 +27,13 @@ Perovskite_Project_V2/
 ├── lead-free perovskite images/
 ├── cross-sectional images/
 └── oxide thin-film images/
-```text
-### 📥 Dataset Access
+
+##  📥 Dataset Access
 
 To facilitate reproducibility and further research, our datasets are publicly available:
 
-*   **Internal Dataset**: High-resolution labeled perovskite SEM images for model training and baseline validation. 
+*   ** Internal Dataset**: High-resolution labeled perovskite SEM images for model training and baseline validation. 
     [👉 Download Link]([https://your-link-here](https://drive.google.com/file/d/1V7X78butwTfp0JktDmamgi093WcYRL3v/view?usp=drive_link))
 
-*   **Robustness Stress Test**: Systematically degraded SEM images (blur, downsampling, and contrast attenuation) to evaluate model generalization and stability under non-ideal imaging conditions. 
+*   ** Robustness Stress Test**: Systematically degraded SEM images (blur, downsampling, and contrast attenuation) to evaluate model generalization and stability under non-ideal imaging conditions. 
     [👉 Download Link XX](https://your-link-here)
