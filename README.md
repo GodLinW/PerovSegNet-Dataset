@@ -27,14 +27,13 @@ Perovskite_Project_V2/
 ├── lead-free perovskite images/
 ├── cross-sectional images/
 └── oxide thin-film images/
+```text
+### 📥 Dataset Access
 
-## 📥 Dataset Access
+To facilitate reproducibility and further research, our datasets are publicly available:
 
-To facilitate reproducibility and further research, our datasets are publicly available. You can access and download the raw data and corresponding annotation masks via the following links:
+*   **Internal Dataset**: High-resolution labeled perovskite SEM images for model training and baseline validation. 
+    [👉 Download Link]([https://your-link-here](https://drive.google.com/file/d/1V7X78butwTfp0JktDmamgi093WcYRL3v/view?usp=drive_link))
 
-| Dataset | Description | Download Link |
-| :--- | :--- | :--- |
-| **Internal Dataset** | High-resolution labeled perovskite SEM images for model training and baseline validation. | [👉 Download Link](sslocal://flow/file_open?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1V7X78butwTfp0JktDmamgi093WcYRL3v%2Fview%3Fusp%3Ddrive_link&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) |
-| **Robustness Stress Test** | Systematically degraded SEM images (blur, downsampling, and contrast attenuation) to evaluate model generalization. | [👉 Download Link](sslocal://flow/file_open?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1V7X78butwTfp0JktDmamgi093WcYRL3v%2Fview%3Fusp%3Dsharing&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) |
-
-*Note: Please refer to the `Dataset Directory Structure` above to ensure the data is placed in the correct subfolders after downloading.*
+*   **Robustness Stress Test**: Systematically degraded SEM images (blur, downsampling, and contrast attenuation) to evaluate model generalization and stability under non-ideal imaging conditions. 
+    [👉 Download Link XX](https://your-link-here)
