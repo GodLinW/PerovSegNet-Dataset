@@ -34,7 +34,6 @@ To facilitate reproducibility and further research, our datasets are publicly av
 
 | Dataset | Description | Download Link |
 | :--- | :--- | :--- |
-| **Internal Dataset** | High-resolution labeled perovskite SEM images for model training and baseline validation. | [👉 Download Link](https://drive.google.com/file/d/1V7X78butwTfp0JktDmamgi093WcYRL3v/view?usp=sharing) |
 | **Robustness Stress Test** | Systematically degraded SEM images (blur, downsampling, and contrast attenuation) to evaluate model generalization. | [👉 Download Link](https://drive.google.com/file/d/1ukzQctgXwgs51YfDhnc-hWxjXrxUKgI3/view?usp=sharing) |
 
 ---
